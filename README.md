@@ -1,6 +1,6 @@
 base62
 ======
 
-"a2sQ".base62_decode
+`"a2sQ".base62_decode`
 
-12345.base62_encode
+`12345.base62_encode`
