@@ -1,4 +1,6 @@
 base62
 ======
 
-encoding and decoding for small/tidy urls
+"a2sQ".base62_decode
+
+12345.base62_encode
